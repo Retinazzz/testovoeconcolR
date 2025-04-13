@@ -1,0 +1,10 @@
+C:\Users\nikgu\source\repos\testovoeconcolR\testovoeconcolR\bin\Debug\testovoeconcolR.exe.config
+C:\Users\nikgu\source\repos\testovoeconcolR\testovoeconcolR\bin\Debug\testovoeconcolR.exe
+C:\Users\nikgu\source\repos\testovoeconcolR\testovoeconcolR\bin\Debug\testovoeconcolR.pdb
+C:\Users\nikgu\source\repos\testovoeconcolR\testovoeconcolR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikgu\source\repos\testovoeconcolR\testovoeconcolR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikgu\source\repos\testovoeconcolR\testovoeconcolR\obj\Debug\testovoeconcolR.csproj.AssemblyReference.cache
+C:\Users\nikgu\source\repos\testovoeconcolR\testovoeconcolR\obj\Debug\testovoeconcolR.csproj.CoreCompileInputs.cache
+C:\Users\nikgu\source\repos\testovoeconcolR\testovoeconcolR\obj\Debug\testovoeconcolR.csproj.CopyComplete
+C:\Users\nikgu\source\repos\testovoeconcolR\testovoeconcolR\obj\Debug\testovoeconcolR.exe
+C:\Users\nikgu\source\repos\testovoeconcolR\testovoeconcolR\obj\Debug\testovoeconcolR.pdb
